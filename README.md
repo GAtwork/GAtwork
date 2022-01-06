@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GAtwork
-- 👀 I’m interested in Python, ML, Data Science, App dev
-- 🌱 I’m currently learning React, JS.
+- 👀 I’m interested in Dev Ops, ANNs, ML, Backend.
+- 🌱 I’m currently learning Node.js, Express and React + [cloud - aws / google].
 - 📚 I’m currently studying MSc in CS.
 
 <!---

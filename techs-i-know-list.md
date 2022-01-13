@@ -2,29 +2,34 @@
 
 ### Languages
 
-Python
-JS
-C
+Python  
+JS  
+C  
 
 ### Frameworks
 
-Flask
-Node.JS
-Express.JS
+Flask  
+Node.JS [in-progress]  
+Express.JS [in-progress]  
 
 ### DB
 
-SQL Server
-SQLite
-MongoDB
-Oracle
+SQL Server  
+SQLite  
+MongoDB  
+Oracle*  
+
+### Cloud
+AWS [in-progress]  
 
 ### To-Do [On the learning schedule]
 
-React
-React Native
-Flutter
-Docker
-AWS
-Google Cloud
-Azure
+React  
+React Native  
+Flutter  
+Docker  
+Google Cloud  
+Azure  
+
+#### NOTES
+\* kinda rusty

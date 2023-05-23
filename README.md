@@ -4,7 +4,9 @@
 - 🔬 MSSQL server, SQLite, Hyperledger Fabric, Java, C
 - 🥼 Data Cleansing, Modeling, Visualization, Computer Vision
 - 🎛️ Embeded devices, QT, C, C++
+
 <br>
+
 - 🕵️‍ I’m interested in Dev Ops, backend, database management and distributed ledger technologies.
 - 🎓 MSc in Computer Science. MBA in Hospitality. BA in Accounting.
 - 💼 Apart from the software engineering, I have over 15 years of hospitality management experience. Available for consulting. 
